@@ -1,0 +1,15 @@
+example1@gmail.com
+example2@hotmail.com
+example3@yahoo.com
+example4@gmail.com
+example5@hotmail.com
+example6@yahoo.com
+example7@gmail.com
+example8@hotmail.com
+example9@yahoo.com
+example10@gmail.com
+example11@hotmail.com
+example12@yahoo.com
+example13@gmail.com
+example14@hotmail.com
+example15@yahoo.com

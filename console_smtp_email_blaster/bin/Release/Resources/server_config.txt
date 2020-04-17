@@ -1,0 +1,7 @@
+SMTP Server:smtp.google.com
+Server Port:587
+User:your-email@gmail.com
+Password:123456
+Email:your-email@gmail.comm
+Name:Your_Name
+Subject:My Subject

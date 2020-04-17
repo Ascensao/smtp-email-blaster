@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "console_smtp_email_blaster", "console_smtp_email_blaster\console_smtp_email_blaster.csproj", "{D27C7ED4-465E-4B61-86D6-6AED2EA79D67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D27C7ED4-465E-4B61-86D6-6AED2EA79D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27C7ED4-465E-4B61-86D6-6AED2EA79D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27C7ED4-465E-4B61-86D6-6AED2EA79D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27C7ED4-465E-4B61-86D6-6AED2EA79D67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2E9DF89-4AAA-4445-B6AA-BD6165DDB87C}
+	EndGlobalSection
+EndGlobal

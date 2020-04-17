@@ -1,0 +1,6 @@
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\bin\Release\console_smtp_email_blaster.exe.config
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\bin\Release\console_smtp_email_blaster.exe
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\bin\Release\console_smtp_email_blaster.pdb
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.csproj.CoreCompileInputs.cache
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.exe
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.pdb

@@ -1,0 +1,7 @@
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Debug\console_smtp_email_blaster.csproj.CoreCompileInputs.cache
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\bin\Debug\console_smtp_email_blaster.exe.config
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\bin\Debug\console_smtp_email_blaster.exe
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\bin\Debug\console_smtp_email_blaster.pdb
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Debug\console_smtp_email_blaster.exe
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Debug\console_smtp_email_blaster.pdb
+C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Debug\console_smtp_email_blaster.csprojAssemblyReference.cache
