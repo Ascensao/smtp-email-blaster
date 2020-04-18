@@ -1,7 +1,7 @@
 # SMTP Email Blaster
 
 <p align="center">
-  <img width="200" height="200" src="https://raw.githubusercontent.com/Ascensao/smtp-email-blaster/master/console_smtp_email_blaster/others/mini-logo.pn">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/Ascensao/smtp-email-blaster/master/console_smtp_email_blaster/others/mini-logo.png">
 </p>
 
 
