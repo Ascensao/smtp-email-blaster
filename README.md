@@ -18,7 +18,7 @@ The SMTP Email Blaster has 2 different modes of sending emails. The first one is
 
 The goal of this software is to send bulk emails with no limitations and reliability without the need for purchasing an Email Marketing Software or Online Service like MailChimp or similar. Another main goal of this project beyond offer a free mass email sender is giving to the user opportunity to choose between 2 distinct modes of sending emails. 
 
-Sending thousands of emails will not work for most of the email providers like Gmail, Live or Yahoo. These giants' companies have spam filters that block mass mailing to avoid spammers. A limited number of os emails/hour and delay time between sendings need to be configured to trick these spam filters. SMTP Email Blaster is perfect for this task and allows the user to introduce these properties before starting to send mass emails.
+Sending thousands of emails will not work for most of the email providers like Gmail, Live or Yahoo. These giants' companies have spam filters that block mass mailing to avoid spammers. A limited number of os emails/hour and delay time between sendings need to be configured to trick these spam filters. SMTP Email Blaster is perfect for the task and allows the user to introduce these properties before starting to send mass emails.
 
 
 ## How to Use It?
