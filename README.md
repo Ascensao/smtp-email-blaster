@@ -1,9 +1,8 @@
 # SMTP Email Blaster
-<div style="text-align:center">
 
-![](https://raw.githubusercontent.com/Ascensao/smtp-email-blaster/master/console_smtp_email_blaster/others/mini-logo.png)
-
-</div>
+<p align="center">
+  <img width="200" height="200" src="https://raw.githubusercontent.com/Ascensao/smtp-email-blaster/master/console_smtp_email_blaster/others/mini-logo.pn">
+</p>
 
 
 ![](https://img.shields.io/github/v/tag/Ascensao/smtp-email-blaster)
