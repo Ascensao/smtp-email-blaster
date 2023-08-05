@@ -4,3 +4,11 @@ C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaste
 C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.csproj.CoreCompileInputs.cache
 C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.exe
 C:\Users\basce\source\repos\console_smtp_email_blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.pdb
+C:\Users\Ascensao\source\repos\2_c_sharp\1_Github\smtp-email-blaster\console_smtp_email_blaster\bin\Release\console_smtp_email_blaster.exe.config
+C:\Users\Ascensao\source\repos\2_c_sharp\1_Github\smtp-email-blaster\console_smtp_email_blaster\bin\Release\console_smtp_email_blaster.exe
+C:\Users\Ascensao\source\repos\2_c_sharp\1_Github\smtp-email-blaster\console_smtp_email_blaster\bin\Release\console_smtp_email_blaster.pdb
+C:\Users\Ascensao\source\repos\2_c_sharp\1_Github\smtp-email-blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.csproj.AssemblyReference.cache
+C:\Users\Ascensao\source\repos\2_c_sharp\1_Github\smtp-email-blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ascensao\source\repos\2_c_sharp\1_Github\smtp-email-blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.csproj.CoreCompileInputs.cache
+C:\Users\Ascensao\source\repos\2_c_sharp\1_Github\smtp-email-blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.exe
+C:\Users\Ascensao\source\repos\2_c_sharp\1_Github\smtp-email-blaster\console_smtp_email_blaster\obj\Release\console_smtp_email_blaster.pdb

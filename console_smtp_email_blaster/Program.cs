@@ -43,6 +43,7 @@ namespace console_smtp_email_blaster
     {
         static void Main(string[] args)
         {
+            System.Net.ServicePointManager.SecurityProtocol = System.Net.SecurityProtocolType.Tls12;
             Console.WindowWidth = 142;
             Console.Title = "SMTP Email Blaster";
             MenuLogo();
@@ -167,7 +168,7 @@ namespace console_smtp_email_blaster
                 Globals.list_folder_txts = Directory.GetFiles(@"Lists", "*.txt", SearchOption.TopDirectoryOnly).ToList();
 
                 Console.WriteLine("\n Select List of Emails:");
-                int mini_counter = 1; //var reutilizada para numerar menu e também receber resposta do utilizador.
+                int mini_counter = 1;
                 foreach (string list in Globals.list_folder_txts)
                 {
                     if (File.Exists("./Resources/" + Path.GetFileName(list)))
